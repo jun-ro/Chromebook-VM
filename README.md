@@ -1,4 +1,4 @@
-![proof](https://cdn.discordapp.com/attachments/741533658674102352/970185543579234345/unknown.png)
+![image](https://user-images.githubusercontent.com/97373683/166140965-d63970e1-e4e5-41d1-b0e0-5833ba3b1ab9.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chromebook-VM
 
