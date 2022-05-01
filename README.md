@@ -15,7 +15,7 @@
 Now follow the instructions below.
 ```
 # Open the Terminal like this:
-![image](https://user-images.githubusercontent.com/97373683/166133142-e49bea2a-b556-440f-ab98-e47148ca8e6b.png)
+![image](https://user-images.githubusercontent.com/97373683/166133162-b45bbcf0-4431-4a85-b51f-4339f21ac3b9.png)
 
 
 
