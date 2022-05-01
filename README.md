@@ -37,15 +37,12 @@ sudo apt-get install terminator
 
 ### That should get you a basic text editor with a better terminal setup.
 <br>
-<br>
-<br>
+
 
 
 # Conlusion:
 This VM is not perfect and can have major issues such as running a DE(Desktop Environment) but I think it's still capable of watching youtube videos and getting rid of pesky internet blocks.
 
-<br>
-<br>
 <br>
 
 # Credits:
