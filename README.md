@@ -19,7 +19,10 @@ Now follow the instructions below.
 ```
 docker run --rm -d -p 3443:80 -v $PWD:/workspace:rw -e USER=username -e PASSWORD=password -e RESOLUTION=1366x650 --name ubuntu-novnc4 fredblgr/ubuntu-novnc:20.04
 ```
-Then click on "Open Window" on the bottom right and enjoy!
+Then click on "Open Window" as seen in this image
+[Image](https://cdn.discordapp.com/attachments/741533658674102352/970189978070052946/unknown.png)
+and enjoy!
+
 
 
 
