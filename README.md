@@ -14,6 +14,10 @@
 
 Now follow the instructions below.
 ```
+# Open the Terminal like this:
+![image](https://user-images.githubusercontent.com/97373683/166133142-e49bea2a-b556-440f-ab98-e47148ca8e6b.png)
+
+
 
 # Copy and paste this line:
 ```
