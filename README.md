@@ -67,4 +67,4 @@ This VM is not perfect and can have major issues such as running a DE(Desktop En
 
 
 # Bonus:
-[Minecraft](./Minecraft.md)
+# [Minecraft](./Minecraft.md)
