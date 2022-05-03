@@ -62,3 +62,9 @@ This VM is not perfect and can have major issues such as running a DE(Desktop En
 ### Gitpod: https://gitpod.io
 ### Docker: https://www.docker.com/
 ### noVNC: https://novnc.com/info.html
+
+
+
+
+# Bonus:
+[Minecraft](./Minecraft.md)
